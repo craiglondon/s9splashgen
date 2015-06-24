@@ -48,7 +48,14 @@ sizes = [{
       orientation: 'portrait',
       width: 414,
       height: 736,
-      scale: 3},      
+      scale: 3},   
+      {
+      idiom: 'iphone 6 plus landscape',
+      name: 'Default-736h-landscape@3x~iphone.png',
+      orientation: 'landscape',
+      width: 736,
+      height: 414,
+      scale: 3},     
       {
       idiom: 'ipad 1/2 portrait',
       name: 'Default-Portrait~ipad.png',
